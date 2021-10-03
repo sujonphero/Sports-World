@@ -46,7 +46,7 @@ const Footer = () => {
                 </p>
 
                 <p className="mt-5">
-                  <small>Zemez © . All rights reserved.</small>
+                  <small>SHEIKH SUJON © . All rights reserved.</small>
                 </p>
               </div>
             </div>
@@ -74,7 +74,7 @@ const Footer = () => {
                     <FontAwesomeIcon icon={faPhoneVolume} />
                   </div>
                   <div>
-                    <h5>+1 8 800 555 35 35</h5>
+                    <h5> 01999986919</h5>
                   </div>
                 </div>
                 <div className="map d-flex align-items-center justify-content-center">
